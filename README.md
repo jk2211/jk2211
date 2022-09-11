@@ -8,9 +8,10 @@
 </p>
 <br />
 
-<p align="center">Enthusiastic selftaught frontend developer since 2020 using ReactJS. a11y minded. Scrum & Agile inspired.</p>
-<p>I am a mentor by 💙 helping people who are in the same situation like I was not long ago to get into tech too. Therefore, I am creating a <a href="https://yuridevat.mailchimpsites.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions.</p>
-<p>From time to time I am contributing to open source to improve projects web accessibility.</p>
+<p align="center">
+  I'm Alex, tech enthusiast and selftaught frontend developer using ReactJS.  
+ </p>
+
 <br />
 
 <h2 align="center">My favorite projects 💻</h2>
@@ -39,7 +40,7 @@
 
 
 
-<h3 align="center"> Languages and Tools</h3>
+<h3 align="center"> Languages and Tools 💪</h3>
 </p>
 <br />
 <p align="center">
@@ -102,5 +103,8 @@
 
    </p>
 <br />
+  <p align="center">
+  What are you doing still snooping around here?
+  </p>
 
 <br />
