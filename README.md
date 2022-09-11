@@ -18,6 +18,7 @@
   
 <li>  👨‍💻 Currently working on web development technologies JavaScript, React, CSS etc.</li>
 <li>  📚 Learning everything about Frontend and Backend technologies 😉</li>
+<li>  🙋 I’m looking to collaborate with open source.</li>
 <li>  💪🏼 Future Goals: Never stop creating new ideas.</li>
 <li>  ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.</li>
   </ul>
