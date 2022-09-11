@@ -8,12 +8,23 @@
 </p>
 <br />
 
-<p align="center">
-  I'm Alex, tech enthusiast and selftaught frontend developer using ReactJS.  
- </p>
 
+  <h2 align="center">I'm Alex, tech enthusiast and selftaught frontend developer using ReactJS. </h2>
 <br />
-
+ 
+  
+  <ul>
+  
+  
+<li>  👨‍💻 Currently working on web development technologies JavaScript, React, CSS etc.</li>
+<li>  📚 Learning everything about Frontend and Backend technologies 😉</li>
+<li>  💪🏼 Future Goals: Never stop creating new ideas.</li>
+<li>  ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.</li>
+  </ul>
+ 
+   
+  
+<!-- 
 <h2 align="center">My favorite projects 💻</h2>
 <br />
 
@@ -37,7 +48,7 @@
 </p>
 
 <br />
-
+ -->
 
 
 <h3 align="center"> Languages and Tools 💪</h3>
@@ -104,7 +115,7 @@
    </p>
 <br />
   <p align="center">
-  What are you doing still snooping around here?
+  What are you doing snooping around here?
   </p>
 
 <br />
