@@ -86,9 +86,6 @@
 
   
 <p align="center">
-  What are you doing snooping around here?
-</p>
-<p align="center">
   <img src="https://media.giphy.com/media/26AHs3p7U7H5MU2gU/giphy.gif" width="60" height="60">
 </p>
 
