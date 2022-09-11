@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b> Hello < Developers /> <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+  <h1 align="center"> Hello < Developers /> <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/!!!/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="Linkedin" /></a>&nbsp;
