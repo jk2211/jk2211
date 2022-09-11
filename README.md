@@ -64,8 +64,6 @@
 <img  height='25px' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white' />
  <!-- ssas -->
 <img  height='25px' src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' />
- <!-- styledcomponents -->
-<img  height='25px' src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&amp;logo=styled-components&amp;logoColor=white' />
  <!-- material-uii -->
 <img  height='25px' src='https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=grey' />
 <!-- bootstrap -->
