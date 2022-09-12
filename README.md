@@ -1,7 +1,7 @@
 
   <h1 align="center"> Hello < Developers /> <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 
-<p align="center"> <b>I'm Alex, tech enthusiast and frontend developer using ReactJS.</b> </p>
+<p align="center"> <b>I'm Alex, tech enthusiast and frontend developer.</b> </p>
 
 
 <p align="center">
